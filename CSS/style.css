@@ -446,6 +446,7 @@ img {
 }
 
 .container-address {
+  align-self: baseline;
   margin-right: 70px;
 }
 
@@ -468,7 +469,6 @@ img {
 
 .container-footer {
   display: flex;
-
 }
 
 .footer-text {
@@ -477,6 +477,10 @@ img {
   text-transform: uppercase;
   color: var(--text-white-color);
   margin-bottom: 20px;
+}
+
+.container-icon-footer {
+  align-self: baseline;
 }
 
 /* Портфолио */
