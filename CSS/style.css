@@ -218,7 +218,7 @@ img {
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--text-white-color);
-  width: 696px;
+  max-width: 696px;
   margin-right: auto;
   margin-bottom: 30px;
   margin-left: auto;
